@@ -3,4 +3,5 @@ pytplot
 numpy
 scipy
 matplotlib
+bokeh
 
