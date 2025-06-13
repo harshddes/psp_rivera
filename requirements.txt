@@ -1,0 +1,6 @@
+pyspedas
+pytplot
+numpy
+scipy
+matplotlib
+
